@@ -45,9 +45,9 @@ The dataset contains the following features:
 
 To explore the data and run the analysis on Kaggle, follow these steps:
 
-1. **Download the Kaggle notebook from the `notebooks/` directory:**
+1. **Download the Kaggle notebook from the notebooks/ directory:**
     - Go to the `notebooks/` directory in your GitHub repository.
-    - Click on the notebook file (e.g., `ecommerce_linear_regression.ipynb`).
+    - Click on the notebook file (e.g.,[ ecommerce_linear_regression.ipynb](https://github.com/RuqayaAlzien/Ecommerce-Customers-linearRegression/blob/main/DataScience-Ecommerce-Customers/ecommerce-customers-linearregression.ipynb)).
     - Once the file is open, click on the "Download" button (usually a button with a downward arrow or the "Raw" button followed by right-clicking and selecting "Save as").
 
 2. **Upload the notebook to your Kaggle account:**
