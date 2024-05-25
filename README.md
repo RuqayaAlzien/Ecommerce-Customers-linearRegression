@@ -51,7 +51,7 @@ To explore the data and run the analysis on Kaggle, follow these steps:
     - Once the file is open, click on the "Download" button (usually a button with a downward arrow or the "Raw" button followed by right-clicking and selecting "Save as").
 
 2. **Upload the notebook to your Kaggle account:**
-    - Log in to your [Kaggle](https://www.kaggle.com/) account.
+    - Log in to my [Kaggle](https://www.kaggle.com/) account.
     - Navigate to "My Notebooks" from the Kaggle dashboard.
     - Click on "New Notebook" and choose the option to upload an existing notebook.
     - Select the downloaded notebook file from your computer and upload it.
@@ -95,5 +95,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please reach out to ( ruqayaalziengmail.com ).
+For any inquiries, please reach out to ( ruqayaalzien@gmail.com ).
 
